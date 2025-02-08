@@ -21,5 +21,7 @@ This project is a Flask-based web application that visualizes real-time bus posi
 - Requests
 - Google Protocol Buffers (`protobuf`)
 
-### Installation
+### License
+This project is open-source and available under the MIT License.
+
 
